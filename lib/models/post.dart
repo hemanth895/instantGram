@@ -46,3 +46,8 @@ class Post {
         'profImage': profImage
       };
 }
+
+
+class Employee{
+  final String eid;
+  final String name;
